@@ -1,4 +1,4 @@
-# news-meter-chrome-plugin
+# lens-chrome-plugin
 
 ## Installation
 
